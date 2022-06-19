@@ -1,8 +1,7 @@
 # Ignore everything
-*
-*/
+# *
+# src/
 
 # But not these files...
-!.gitignore
-!README.md
-!.devcontainer/
+# !.gitignore
+# !profile/README.md
