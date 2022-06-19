@@ -9,5 +9,6 @@ Once you have had a look through this profile, you can head to my [main profile]
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
 |[util](https://github.com/topheruk-rust/util)|Common functions|`utility`|
+|[dsa](https://github.com/topheruk-rust/dsa)|Data Structures & Algorithms|`big o`, `algorithms`, `dynamic programming`|
 
 <!-- TODO -->
